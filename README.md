@@ -1,21 +1,16 @@
-# Project Name
+# Coding Challenges
 
-> One paragraph statement about the project.
-
-![screenshot](./app_screenshot.png)
+> These are solutions to the coding challenges i have done. I will keep adding more as i complete more of them.
 
 Additional description about the project and its features.
 
-## Built With
+## Leetcode in Javascript
 
-- Major languages,
-- frameworks,
-- technologies used
+- Integer to Roman numerals 
 
-## Live Demo
+## Repl.It in Ruby
 
-[Live Demo Link](https://livedemo.com)
-
+- 
 
 ## Getting Started
 
@@ -25,33 +20,13 @@ Additional description about the project and its features.
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
 ## Authors
 
-👤 **Author1**
+👤 **Leonard Rwai Kanyesigye**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@rmauritsson](https://github.com/rmauritsson)
+- Twitter: [@leokanye](https://twitter.com/leokanye)
+- Linkedin: [leonard-rwai-kanyesigye](https://www.linkedin.com/in/leonard-rwai-kanyesigye/)
 
 ## 🤝 Contributing
 
@@ -62,12 +37,6 @@ Feel free to check the [issues page](issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
